@@ -1,0 +1,28 @@
+# Core
+numpy>=1.26,<3.0
+pandas>=2.0,<4.0
+PyYAML>=6.0,<7.0
+
+# Parsing
+pymupdf>=1.24,<2.0
+python-docx>=1.1,<2.0
+
+# ML / NLP
+scikit-learn>=1.4,<2.0
+
+# Optional — enables semantic (embedding) similarity in addition to TF-IDF.
+# The app runs correctly without it (auto-falls back to TF-IDF-only scoring),
+# so this is not a hard requirement. See README "Semantic similarity" note.
+sentence-transformers>=2.7,<4.0
+
+# API
+fastapi>=0.110,<1.0
+uvicorn>=0.29,<1.0
+pydantic>=2.6,<3.0
+python-multipart>=0.0.9
+
+# UI
+streamlit>=1.33,<2.0
+
+# Dev / testing
+requests>=2.31,<3.0

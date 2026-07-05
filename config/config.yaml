@@ -1,0 +1,48 @@
+# ==========================================================
+# Resume Screening & Ranking System — Configuration
+# ==========================================================
+
+app:
+  name: "HireAI Resume Ranker"
+  version: "1.0.0"
+
+paths:
+  resumes_dir: "data/resumes"
+  job_descriptions_dir: "data/job_descriptions"
+  processed_dir: "data/processed"
+  skills_taxonomy: "config/skills_taxonomy.json"
+
+parsing:
+  supported_formats: ["pdf", "docx", "txt"]
+  min_text_length: 50          # below this, a resume is flagged as low-quality parse
+
+similarity:
+  tfidf:
+    max_features: 5000
+    ngram_range: [1, 2]
+    stop_words: "english"
+  embeddings:
+    enabled: true               # auto-disables gracefully if sentence-transformers/model is unavailable
+    model_name: "all-MiniLM-L6-v2"
+
+# Weighted contribution of each sub-score inside the final ML ranking model.
+# These are also used as the heuristic "teacher" weights to bootstrap
+# training labels for the supervised model (see ranking/scorer.py).
+scoring_weights:
+  skills_match: 0.40
+  semantic_similarity: 0.25
+  experience_match: 0.20
+  education_match: 0.15
+
+ranking:
+  model_type: "gradient_boosting"   # options: gradient_boosting, logistic_regression
+  random_state: 42
+  test_size: 0.2
+
+api:
+  host: "0.0.0.0"
+  port: 8000
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s | %(levelname)-8s | %(name)s | %(message)s"

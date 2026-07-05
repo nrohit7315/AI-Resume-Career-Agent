@@ -1,0 +1,56 @@
+{
+  "programming_languages": [
+    "python", "java", "c++", "c", "c#", "javascript", "typescript", "go", "golang",
+    "rust", "kotlin", "swift", "r", "scala", "matlab", "sql", "php", "ruby"
+  ],
+  "ml_ai": [
+    "machine learning", "deep learning", "nlp", "natural language processing",
+    "computer vision", "reinforcement learning", "neural networks", "transformers",
+    "llm", "large language models", "generative ai", "cnn", "rnn", "lstm",
+    "gan", "bert", "gpt", "xgboost", "random forest", "svm", "clustering",
+    "regression", "classification", "feature engineering", "model deployment",
+    "mlops", "time series", "recommendation systems"
+  ],
+  "ml_frameworks": [
+    "tensorflow", "pytorch", "keras", "scikit-learn", "sklearn", "huggingface",
+    "spacy", "nltk", "opencv", "xgboost", "lightgbm", "catboost", "mlflow",
+    "onnx", "jax"
+  ],
+  "data_tools": [
+    "pandas", "numpy", "matplotlib", "seaborn", "plotly", "power bi", "tableau",
+    "excel", "spark", "hadoop", "airflow", "dbt", "snowflake", "kafka"
+  ],
+  "web_backend": [
+    "flask", "django", "fastapi", "node.js", "express", "rest api", "graphql",
+    "microservices", "spring boot"
+  ],
+  "web_frontend": [
+    "react", "angular", "vue", "html", "css", "tailwind", "streamlit", "next.js"
+  ],
+  "databases": [
+    "mysql", "postgresql", "mongodb", "sqlite", "redis", "elasticsearch",
+    "firebase", "oracle", "cassandra"
+  ],
+  "cloud_devops": [
+    "aws", "azure", "gcp", "docker", "kubernetes", "ci/cd", "jenkins", "terraform",
+    "linux", "git", "github actions", "github"
+  ],
+  "soft_skills": [
+    "communication", "leadership", "teamwork", "problem solving", "collaboration",
+    "critical thinking", "adaptability", "time management", "mentoring",
+    "presentation", "stakeholder management"
+  ],
+  "aliases": {
+    "sklearn": "scikit-learn",
+    "js": "javascript",
+    "ts": "typescript",
+    "cv": "computer vision",
+    "nlp": "natural language processing",
+    "ml": "machine learning",
+    "dl": "deep learning",
+    "k8s": "kubernetes",
+    "postgres": "postgresql",
+    "genai": "generative ai",
+    "llms": "large language models"
+  }
+}

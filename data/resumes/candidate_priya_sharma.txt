@@ -1,0 +1,28 @@
+Priya Sharma
+Email: priya.sharma@email.com | Phone: +91-9876543210
+LinkedIn: linkedin.com/in/priyasharma | GitHub: github.com/priyasharma
+
+EDUCATION
+B.Tech in Computer Science, VIT Vellore, 2020 - 2024
+Relevant coursework: Machine Learning, Natural Language Processing, Data Structures
+
+EXPERIENCE
+ML Engineer, DataWorks Analytics (Jan 2023 - Present)
+- Built and deployed NLP-based document similarity systems using TF-IDF and
+  sentence-transformers embeddings.
+- Trained classification models with scikit-learn and XGBoost, improving
+  accuracy by 12% over baseline.
+- Designed REST APIs with FastAPI to serve model predictions in production.
+- Used pandas and numpy for feature engineering on large text datasets.
+
+Machine Learning Intern, TechNova Labs (Jun 2022 - Dec 2022)
+- Assisted in building a computer vision pipeline using PyTorch and OpenCV.
+- Automated data preprocessing workflows and version control with Git.
+
+SKILLS
+Python, scikit-learn, TensorFlow, PyTorch, pandas, numpy, NLP, machine learning,
+FastAPI, Flask, REST API, Git, AWS, SQL, spaCy, transformers, BERT
+
+PROJECTS
+Resume Parser & Matcher (Personal Project)
+- Implemented a hybrid similarity scorer combining TF-IDF and BERT embeddings.

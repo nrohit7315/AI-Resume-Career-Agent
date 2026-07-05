@@ -1,0 +1,30 @@
+Job Title: AI/ML Engineer (Entry to Mid-Level)
+
+About the Role:
+We are looking for an AI/ML Engineer to join our product engineering team. You will
+build and deploy machine learning and NLP systems that power real product features,
+working closely with data and backend teams.
+
+Requirements:
+- Bachelor's degree in Computer Science, Artificial Intelligence, or a related field.
+- 2+ years of experience in machine learning, deep learning, or NLP.
+- Strong proficiency in Python and hands-on experience with scikit-learn, TensorFlow
+  or PyTorch.
+- Experience with NLP techniques such as TF-IDF, embeddings, or transformer models
+  (BERT, GPT).
+- Familiarity with pandas, numpy for data processing and feature engineering.
+- Experience building and consuming REST APIs (FastAPI or Flask).
+- Working knowledge of Git and collaborative development workflows.
+- Strong problem-solving skills and ability to work in a team.
+
+Nice to Have:
+- Experience with cloud platforms (AWS, GCP, or Azure).
+- Exposure to MLOps practices and model deployment.
+- Familiarity with SQL and data visualization tools (Tableau, Power BI).
+
+Responsibilities:
+- Design and implement NLP-based similarity and ranking systems.
+- Build data pipelines to parse and process unstructured text data.
+- Train, evaluate, and deploy machine learning models to production.
+- Collaborate with cross-functional teams to translate business requirements
+  into ML solutions.

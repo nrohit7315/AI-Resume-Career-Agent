@@ -1,0 +1,611 @@
+{
+  "jd_source": "data\\job_descriptions\\sample_jd.txt",
+  "results": [
+    {
+      "file_name": "candidate_priya_sharma.txt",
+      "quality_flag": "ok",
+      "contact": {
+        "email": "priya.sharma@email.com",
+        "phone": "+919876543210",
+        "linkedin": "linkedin.com/in/priyasharma",
+        "github": "github.com/priyasharma"
+      },
+      "skills": [
+        "aws",
+        "bert",
+        "classification",
+        "computer vision",
+        "fastapi",
+        "feature engineering",
+        "flask",
+        "git",
+        "github",
+        "machine learning",
+        "natural language processing",
+        "numpy",
+        "opencv",
+        "pandas",
+        "python",
+        "pytorch",
+        "rest api",
+        "scikit-learn",
+        "spacy",
+        "sql",
+        "tensorflow",
+        "transformers",
+        "xgboost"
+      ],
+      "skills_by_category": {
+        "cloud_devops": [
+          "aws",
+          "git",
+          "github"
+        ],
+        "ml_ai": [
+          "bert",
+          "classification",
+          "computer vision",
+          "feature engineering",
+          "machine learning",
+          "natural language processing",
+          "transformers"
+        ],
+        "ml_frameworks": [
+          "opencv",
+          "pytorch",
+          "scikit-learn",
+          "spacy",
+          "tensorflow",
+          "xgboost"
+        ],
+        "web_backend": [
+          "fastapi",
+          "flask",
+          "rest api"
+        ],
+        "data_tools": [
+          "numpy",
+          "pandas"
+        ],
+        "programming_languages": [
+          "python",
+          "sql"
+        ]
+      },
+      "experience": {
+        "total_years": 4.0,
+        "seniority": "mid",
+        "source": "date_range_inference_scoped"
+      },
+      "education": {
+        "highest_degree": "bachelor",
+        "degree_level_rank": 2,
+        "fields": [
+          "computer science",
+          "machine learning"
+        ]
+      },
+      "similarity": {
+        "tfidf_score": 0.1995,
+        "embedding_score": 0.5955,
+        "hybrid_score": 0.3975,
+        "mode": "hybrid_tfidf_embedding"
+      },
+      "skills_match_detail": {
+        "score": 0.6522,
+        "matched": [
+          "aws",
+          "bert",
+          "fastapi",
+          "feature engineering",
+          "flask",
+          "git",
+          "machine learning",
+          "natural language processing",
+          "numpy",
+          "pandas",
+          "python",
+          "pytorch",
+          "scikit-learn",
+          "sql",
+          "tensorflow"
+        ],
+        "missing": [
+          "azure",
+          "deep learning",
+          "gcp",
+          "gpt",
+          "mlops",
+          "model deployment",
+          "power bi",
+          "tableau"
+        ],
+        "extra": [
+          "classification",
+          "computer vision",
+          "github",
+          "opencv",
+          "rest api",
+          "spacy",
+          "transformers",
+          "xgboost"
+        ]
+      },
+      "subscores": {
+        "skills_match": 0.6522,
+        "semantic_similarity": 0.3975,
+        "experience_match": 1.0,
+        "education_match": 1.0
+      },
+      "heuristic_score": 0.7103,
+      "ml_score": 0.6867,
+      "shortlist_probability": 0.753,
+      "required_years_detected": 2.0,
+      "rank": 1
+    },
+    {
+      "file_name": "candidate_rahul_verma.docx",
+      "quality_flag": "ok",
+      "contact": {
+        "email": "rahul.verma@email.com",
+        "phone": "+919988776655",
+        "linkedin": "linkedin.com/in/rahulverma",
+        "github": null
+      },
+      "skills": [
+        "aws",
+        "bert",
+        "classification",
+        "deep learning",
+        "docker",
+        "flask",
+        "git",
+        "kubernetes",
+        "machine learning",
+        "mlflow",
+        "mlops",
+        "model deployment",
+        "natural language processing",
+        "pandas",
+        "python",
+        "pytorch",
+        "recommendation systems",
+        "scikit-learn",
+        "tensorflow",
+        "time series",
+        "transformers",
+        "xgboost"
+      ],
+      "skills_by_category": {
+        "ml_ai": [
+          "bert",
+          "classification",
+          "deep learning",
+          "machine learning",
+          "mlops",
+          "model deployment",
+          "natural language processing",
+          "recommendation systems",
+          "time series",
+          "transformers"
+        ],
+        "ml_frameworks": [
+          "mlflow",
+          "pytorch",
+          "scikit-learn",
+          "tensorflow",
+          "xgboost"
+        ],
+        "cloud_devops": [
+          "aws",
+          "docker",
+          "git",
+          "kubernetes"
+        ],
+        "data_tools": [
+          "pandas"
+        ],
+        "web_backend": [
+          "flask"
+        ],
+        "programming_languages": [
+          "python"
+        ]
+      },
+      "experience": {
+        "total_years": 7.0,
+        "seniority": "senior",
+        "source": "date_range_inference_scoped"
+      },
+      "education": {
+        "highest_degree": "master",
+        "degree_level_rank": 3,
+        "fields": [
+          "artificial intelligence",
+          "information technology"
+        ]
+      },
+      "similarity": {
+        "tfidf_score": 0.1334,
+        "embedding_score": 0.6411,
+        "hybrid_score": 0.3872,
+        "mode": "hybrid_tfidf_embedding"
+      },
+      "skills_match_detail": {
+        "score": 0.6087,
+        "matched": [
+          "aws",
+          "bert",
+          "deep learning",
+          "flask",
+          "git",
+          "machine learning",
+          "mlops",
+          "model deployment",
+          "natural language processing",
+          "pandas",
+          "python",
+          "pytorch",
+          "scikit-learn",
+          "tensorflow"
+        ],
+        "missing": [
+          "azure",
+          "fastapi",
+          "feature engineering",
+          "gcp",
+          "gpt",
+          "numpy",
+          "power bi",
+          "sql",
+          "tableau"
+        ],
+        "extra": [
+          "classification",
+          "docker",
+          "kubernetes",
+          "mlflow",
+          "recommendation systems",
+          "time series",
+          "transformers",
+          "xgboost"
+        ]
+      },
+      "subscores": {
+        "skills_match": 0.6087,
+        "semantic_similarity": 0.3872,
+        "experience_match": 1.0,
+        "education_match": 1.0
+      },
+      "heuristic_score": 0.6903,
+      "ml_score": 0.6649,
+      "shortlist_probability": 0.6956,
+      "required_years_detected": 2.0,
+      "rank": 2
+    },
+    {
+      "file_name": "candidate_karan_kapoor.pdf",
+      "quality_flag": "ok",
+      "contact": {
+        "email": "karan.kapoor@email.com",
+        "phone": "+919123456789",
+        "linkedin": null,
+        "github": null
+      },
+      "skills": [
+        "communication",
+        "excel",
+        "git",
+        "machine learning",
+        "pandas",
+        "power bi",
+        "python",
+        "random forest",
+        "regression",
+        "scikit-learn",
+        "sql",
+        "teamwork"
+      ],
+      "skills_by_category": {
+        "data_tools": [
+          "excel",
+          "pandas",
+          "power bi"
+        ],
+        "programming_languages": [
+          "python",
+          "sql"
+        ],
+        "ml_frameworks": [
+          "scikit-learn"
+        ],
+        "ml_ai": [
+          "machine learning",
+          "random forest",
+          "regression"
+        ],
+        "cloud_devops": [
+          "git"
+        ],
+        "soft_skills": [
+          "communication",
+          "teamwork"
+        ]
+      },
+      "experience": {
+        "total_years": 1.5,
+        "seniority": "mid",
+        "source": "explicit_phrase"
+      },
+      "education": {
+        "highest_degree": "bachelor",
+        "degree_level_rank": 2,
+        "fields": [
+          "machine learning"
+        ]
+      },
+      "similarity": {
+        "tfidf_score": 0.1501,
+        "embedding_score": 0.4572,
+        "hybrid_score": 0.3036,
+        "mode": "hybrid_tfidf_embedding"
+      },
+      "skills_match_detail": {
+        "score": 0.3043,
+        "matched": [
+          "git",
+          "machine learning",
+          "pandas",
+          "power bi",
+          "python",
+          "scikit-learn",
+          "sql"
+        ],
+        "missing": [
+          "aws",
+          "azure",
+          "bert",
+          "deep learning",
+          "fastapi",
+          "feature engineering",
+          "flask",
+          "gcp",
+          "gpt",
+          "mlops",
+          "model deployment",
+          "natural language processing",
+          "numpy",
+          "pytorch",
+          "tableau",
+          "tensorflow"
+        ],
+        "extra": [
+          "communication",
+          "excel",
+          "random forest",
+          "regression",
+          "teamwork"
+        ]
+      },
+      "subscores": {
+        "skills_match": 0.3043,
+        "semantic_similarity": 0.3036,
+        "experience_match": 0.75,
+        "education_match": 1.0
+      },
+      "heuristic_score": 0.4976,
+      "ml_score": 0.4682,
+      "shortlist_probability": 0.127,
+      "required_years_detected": 2.0,
+      "rank": 3
+    },
+    {
+      "file_name": "candidate_arjun_mehta.txt",
+      "quality_flag": "ok",
+      "contact": {
+        "email": "arjun.mehta@email.com",
+        "phone": "987654321",
+        "linkedin": null,
+        "github": null
+      },
+      "skills": [
+        "css",
+        "excel",
+        "git",
+        "html",
+        "javascript",
+        "machine learning",
+        "mysql",
+        "node.js",
+        "python",
+        "react"
+      ],
+      "skills_by_category": {
+        "programming_languages": [
+          "javascript",
+          "python"
+        ],
+        "web_frontend": [
+          "css",
+          "html",
+          "react"
+        ],
+        "web_backend": [
+          "node.js"
+        ],
+        "databases": [
+          "mysql"
+        ],
+        "cloud_devops": [
+          "git"
+        ],
+        "data_tools": [
+          "excel"
+        ],
+        "ml_ai": [
+          "machine learning"
+        ]
+      },
+      "experience": {
+        "total_years": 4.5,
+        "seniority": "mid",
+        "source": "date_range_inference_scoped"
+      },
+      "education": {
+        "highest_degree": "diploma",
+        "degree_level_rank": 1,
+        "fields": [
+          "machine learning"
+        ]
+      },
+      "similarity": {
+        "tfidf_score": 0.0687,
+        "embedding_score": 0.5003,
+        "hybrid_score": 0.2845,
+        "mode": "hybrid_tfidf_embedding"
+      },
+      "skills_match_detail": {
+        "score": 0.1304,
+        "matched": [
+          "git",
+          "machine learning",
+          "python"
+        ],
+        "missing": [
+          "aws",
+          "azure",
+          "bert",
+          "deep learning",
+          "fastapi",
+          "feature engineering",
+          "flask",
+          "gcp",
+          "gpt",
+          "mlops",
+          "model deployment",
+          "natural language processing",
+          "numpy",
+          "pandas",
+          "power bi",
+          "pytorch",
+          "scikit-learn",
+          "sql",
+          "tableau",
+          "tensorflow"
+        ],
+        "extra": [
+          "css",
+          "excel",
+          "html",
+          "javascript",
+          "mysql",
+          "node.js",
+          "react"
+        ]
+      },
+      "subscores": {
+        "skills_match": 0.1304,
+        "semantic_similarity": 0.2845,
+        "experience_match": 1.0,
+        "education_match": 0.5
+      },
+      "heuristic_score": 0.3983,
+      "ml_score": 0.3762,
+      "shortlist_probability": 0.0376,
+      "required_years_detected": 2.0,
+      "rank": 4
+    },
+    {
+      "file_name": "candidate_sneha_iyer.txt",
+      "quality_flag": "ok",
+      "contact": {
+        "email": "sneha.iyer@email.com",
+        "phone": "+919012345678",
+        "linkedin": null,
+        "github": null
+      },
+      "skills": [
+        "communication",
+        "excel",
+        "presentation",
+        "teamwork",
+        "time management"
+      ],
+      "skills_by_category": {
+        "soft_skills": [
+          "communication",
+          "presentation",
+          "teamwork",
+          "time management"
+        ],
+        "data_tools": [
+          "excel"
+        ]
+      },
+      "experience": {
+        "total_years": 5.5,
+        "seniority": "unspecified",
+        "source": "date_range_inference_scoped"
+      },
+      "education": {
+        "highest_degree": "bachelor",
+        "degree_level_rank": 2,
+        "fields": []
+      },
+      "similarity": {
+        "tfidf_score": 0.0219,
+        "embedding_score": 0.2645,
+        "hybrid_score": 0.1432,
+        "mode": "hybrid_tfidf_embedding"
+      },
+      "skills_match_detail": {
+        "score": 0.0,
+        "matched": [],
+        "missing": [
+          "aws",
+          "azure",
+          "bert",
+          "deep learning",
+          "fastapi",
+          "feature engineering",
+          "flask",
+          "gcp",
+          "git",
+          "gpt",
+          "machine learning",
+          "mlops",
+          "model deployment",
+          "natural language processing",
+          "numpy",
+          "pandas",
+          "power bi",
+          "python",
+          "pytorch",
+          "scikit-learn",
+          "sql",
+          "tableau",
+          "tensorflow"
+        ],
+        "extra": [
+          "communication",
+          "excel",
+          "presentation",
+          "teamwork",
+          "time management"
+        ]
+      },
+      "subscores": {
+        "skills_match": 0.0,
+        "semantic_similarity": 0.1432,
+        "experience_match": 1.0,
+        "education_match": 1.0
+      },
+      "heuristic_score": 0.3858,
+      "ml_score": 0.3687,
+      "shortlist_probability": 0.0281,
+      "required_years_detected": 2.0,
+      "rank": 5
+    }
+  ],
+  "errors": []
+}

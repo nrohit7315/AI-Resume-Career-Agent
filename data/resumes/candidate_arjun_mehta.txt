@@ -1,0 +1,18 @@
+Arjun Mehta
+Email: arjun.mehta@email.com | Phone: 98765 43210
+
+EDUCATION
+Diploma in Computer Engineering, Government Polytechnic, 2019 - 2022
+
+EXPERIENCE
+Software Developer, WebCraft Solutions (Mar 2022 - Present)
+- Built web applications using JavaScript, React, and Node.js.
+- Worked with MySQL databases for backend data storage.
+- Collaborated with the team using Git for version control.
+- Some exposure to Python scripting for internal automation tasks.
+
+SKILLS
+JavaScript, React, Node.js, HTML, CSS, MySQL, Git, Python, Excel
+
+CERTIFICATIONS
+Introduction to Machine Learning (Online Course, 2023)
